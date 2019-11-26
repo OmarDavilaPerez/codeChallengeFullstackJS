@@ -2,7 +2,7 @@
 
 Hey, welcome to the first coding challenge of your interview process, you'll be presented with a set of steps to accomplish in order to get yourself graded on 
 
-> Fullstack JavaScript using the MEAN stack
+> Fullstack JavaScript using the MEAN or MERN stack
 
 ## The Prereqs
 This challenge assumes your knowledge or skills to leverage on the following topics,
