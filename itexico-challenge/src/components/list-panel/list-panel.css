@@ -1,0 +1,29 @@
+.panel-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons-panel {
+    text-align: right;
+}
+
+.buttons-panel button {
+    color: #282c34;
+    font-weight: bold;
+    background-color: #09d3ac;
+    border: 1px solid #09d3ac;
+    padding: 8px;
+    margin-left: 2px;
+}
+
+.buttons-panel button:hover {
+    color: #09d3ac;
+    background-color: #282c34;
+    border: 1px solid #09d3ac;
+}
+
+.buttons-panel button:active {
+    color: #282c34;
+    background-color: #c99a02;
+    border: 1px solid #c99a02;
+}

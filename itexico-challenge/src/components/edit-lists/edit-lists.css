@@ -1,0 +1,16 @@
+.edit-list-section {
+    width: 100%;
+}
+
+.edit-list-container {
+    background-color: #282c34;
+    border-radius: 5px;
+    padding: 20px;
+    width: 50%;
+    margin: 10px auto;
+    color: #09d3ac;
+}
+
+.edit-list-container p {
+    font-size: 13px;
+}
