@@ -1,0 +1,14 @@
+.welcome-message {
+    text-align: center;
+}
+
+.welcome-message h1 {
+    font-size: 30px;
+}
+
+.highlighted {
+    color: #09d3ac;
+    background-color: #282c34;
+    padding: 0 15px 0 15px;
+    border-radius: 5px;
+}

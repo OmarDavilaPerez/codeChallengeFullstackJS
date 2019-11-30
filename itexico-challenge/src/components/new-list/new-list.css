@@ -1,0 +1,16 @@
+.new-list-section {
+    width: 100%;
+}
+
+.new-list-form-section {
+    background-color: #282c34;
+    border-radius: 5px;
+    padding: 20px;
+    width: 50%;
+    margin: 10px auto;
+    color: #09d3ac;
+}
+
+.new-list-form-section p {
+    font-size: 13px;
+}
